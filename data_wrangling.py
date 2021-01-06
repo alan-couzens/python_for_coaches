@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 #Import the pandas library and call it pd
 import pandas as pd
