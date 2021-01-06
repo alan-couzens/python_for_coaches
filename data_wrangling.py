@@ -42,7 +42,7 @@ mood = build_series('Mood')
 new_improved_metrics = pd.concat([HRV, pulse, stress, sleep_quality, sleep_hours, mood], axis=1)
 print(new_improved_metrics)
 
-#Back to the workouts csv to sum up the total training load (TSS) for each day so that we can add it to the same sheet as our metrics
+#Back to the workouts csv to sum up the total training load (TSS) for each day so that we can add it to the same df as our metrics
 workouts_df = pd.read_csv('workouts.csv')
 TSS_day = workouts_df.groupby(['WorkoutDay'])['TSS'].sum()
 print(TSS_day)
