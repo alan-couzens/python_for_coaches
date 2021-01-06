@@ -6,5 +6,5 @@ You can download the code from the main repo page to wherever your files are & r
 
 Part 1 -- Getting data from fit files (https://alancouzens.com/blog/get_data_from_fit_file.html)               
 Part 2 -- Getting HRV data from your files (https://alancouzens.com/blog/get_hrv_data_from_fit_file.html)        
-Part 3 -- Getting data from API's and the Web (https://alancouzens.com/blog/APIs_and_the_web.html)
+Part 3 -- Getting data from API's and the Web (https://alancouzens.com/blog/APIs_and_the_web.html)          
 Part 4 -- Data wrangling with Pandas (https://alancouzens.com/blog/data_wrangling_with_pandas.html)    
